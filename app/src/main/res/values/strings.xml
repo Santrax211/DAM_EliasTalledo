@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">DAM_EliasTalledo</string>
+    <string name="radioButton_IS" />
+    <string name="radioButtonIS">Ing. de Sistemas</string>
+    <string name="radioButtonIA">Ing. Ambiental</string>
+    <string name="radioButtonIM">Ing. Mecánica</string>
+    <string name="radioButtonA">Administración</string>
+    <string name="checkBox_Radio">Radio</string>
+    <string name="checkBox_Internet">Internet</string>
+    <string name="checkBox_Amigo">Amigo</string>
+    <string name="checjkBox_Publicidad">Publicidad</string>
+    <string name="btn_enviar">Enviar</string>
 </resources>
